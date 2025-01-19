@@ -71,6 +71,7 @@ Actualmente, busco nuevos desafíos donde pueda aplicar mi conocimiento multidis
 
 ## 📫 ¿Cómo contactarme?
 - **GitHub**: [Secrecion](https://github.com/Secrecion)
+- **LinkedIn**: [Ricardo Rivas](https://www.linkedin.com/in/iqi-rivas/)
 
 ## 📚 Resumen Profesional
 Mi carrera ha sido un viaje multidisciplinario, siempre con la intención de aprender y adaptarme a nuevos desafíos. Desde ser guía de camping hasta desarrollador de soluciones tecnológicas en el ámbito logístico, me apasiona la innovación y la resolución de problemas complejos.
